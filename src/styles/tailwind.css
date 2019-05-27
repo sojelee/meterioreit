@@ -6066,6 +6066,10 @@ table {
   width: 16rem;
 }
 
+.w-128 {
+  width: 32rem;
+}
+
 .w-auto {
   width: auto;
 }
@@ -6153,8 +6157,6 @@ table {
 .z-auto {
   z-index: auto;
 }
-
-/* Your custom CSS here */
 
 @media (min-width: 576px) {
   .sm\:list-reset {
@@ -11701,6 +11703,10 @@ table {
 
   .sm\:w-64 {
     width: 16rem;
+  }
+
+  .sm\:w-128 {
+    width: 32rem;
   }
 
   .sm\:w-auto {
@@ -17339,6 +17345,10 @@ table {
     width: 16rem;
   }
 
+  .md\:w-128 {
+    width: 32rem;
+  }
+
   .md\:w-auto {
     width: auto;
   }
@@ -22975,6 +22985,10 @@ table {
     width: 16rem;
   }
 
+  .lg\:w-128 {
+    width: 32rem;
+  }
+
   .lg\:w-auto {
     width: auto;
   }
@@ -28609,6 +28623,10 @@ table {
 
   .xl\:w-64 {
     width: 16rem;
+  }
+
+  .xl\:w-128 {
+    width: 32rem;
   }
 
   .xl\:w-auto {
